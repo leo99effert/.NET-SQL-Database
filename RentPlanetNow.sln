@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentPlanetNow", "RentPlanetNow.csproj", "{AC76D542-A9A0-48AB-920E-C7874CE690D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC76D542-A9A0-48AB-920E-C7874CE690D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC76D542-A9A0-48AB-920E-C7874CE690D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC76D542-A9A0-48AB-920E-C7874CE690D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC76D542-A9A0-48AB-920E-C7874CE690D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E48C109-DC5A-4248-83F3-1216EA6F8785}
+	EndGlobalSection
+EndGlobal
